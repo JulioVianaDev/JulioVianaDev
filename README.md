@@ -46,7 +46,7 @@ Under strict rules and limited time and resources, teams of high school students
 
 [<img src="https://img.shields.io/badge/-Instagram-purple">](https://www.instagram.com/julio_tomate/)
 [<img src="https://img.shields.io/badge/-Linkedin-blue">](https://www.linkedin.com/in/j%C3%BAlio-viana-408502219/)
-[<img src="https://img.shields.io/badge/-Gmail-red">](https://github.com/MoraesJoseThiago)
+<a href="mailto:juliovianadev@gmail.com">[<img src="https://img.shields.io/badge/-Gmail-red">]</a>
 
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
