@@ -2,7 +2,7 @@
 
 <div display="fkex" >
     <center>
-    <img align="center" alt="Tony Stark in a Computer (Jarvis)" src="https://i.pinimg.com/originals/02/0c/e7/020ce7e3b883d974e73d9fdffb4f20ad.gif" height=256px width=50
+    <img align="center" alt="Tony Stark in a Computer (Jarvis)" src="https://i.pinimg.com/originals/02/0c/e7/020ce7e3b883d974e73d9fdffb4f20ad.gif" height=256px width=50%>
          </center>
          </div>
 
