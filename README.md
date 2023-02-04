@@ -1,7 +1,7 @@
 ## <h1 style="color:#FF1493"> Hello, welcome! Thanks for visit my Github <img alt="GIF" height="35px" src="https://pa1.narvii.com/6904/5a92562e47aecf27132021449b13703f4031f1a3r1-335-369_hq.gif"/> </h1> 
 
-<div>
-    <img align="center" alt="Tony Stark in a Computer (Jarvis)" src="https://i.pinimg.com/originals/02/0c/e7/020ce7e3b883d974e73d9fdffb4f20ad.gif" height=256px width=50%>
+<div display="fkex" >
+    <img align="center" alt="Tony Stark in a Computer (Jarvis)" src="https://i.pinimg.com/originals/02/0c/e7/020ce7e3b883d974e73d9fdffb4f20ad.gif" height=256px width=100%>
 </div>
 
 &nbsp;
